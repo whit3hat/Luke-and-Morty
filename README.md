@@ -15,4 +15,5 @@ Once you have finished answering all the questions you are then presented with a
 ## Links
 
 [GitHub](https://github.com/whit3hat/Luke-and-Morty)
+---
 [Application](https://whit3hat.github.io/Luke-and-Morty/)
